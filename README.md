@@ -20,7 +20,6 @@ I’m always open to discussing software development work or partnership opportu
 <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"  width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"  width="50" height="50"/> 
 
-
 ---
 
 ## &#x1f4c8; My GitHub Stats
