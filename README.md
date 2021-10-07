@@ -28,3 +28,4 @@ I’m always open to discussing software development work or partnership opportu
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&theme=radical)](https://github.com/cypriantinasheaarons/github-readme-stats)
 
+<a href="https://app.daily.dev/CyprianAarons"><img src="https://api.daily.dev/devcards/aa2e5455472242d7943bc03bdb44ef7b.png?r=hs8" width="400" alt="Cyprian Tinashe Aarons's Dev Card"/></a>
