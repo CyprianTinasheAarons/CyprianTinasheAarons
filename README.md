@@ -4,20 +4,27 @@
  
  ## My Bio
  
-  I am a independent software engineer and the creator of a tech company called Topiax. Currently working as the CTO of Freshideas the parent of Freshinabox ,Joeys and Bottlestore .
+Hello! 🙂
 
-I have been looking into four key fields in technology that i believe are changing the world for the better .These include Artificial intelligence , Blockchain technology , Robotics, Energy Storage.
+My name is Cyprian Tinashe Aarons. I am a software engineer and the creator of a Web 3.0 tech company called Topiax. And also the founder of a non-profit organization on Mental Health called All We Got Is Mind. Previously worked as the CTO of Freshideas the parent of Freshinabox, Joeys, and Surprise. Where I lead a team of competent developers for more than 2 years.
+
+Am very passionate about software development and building projects from the ground up. I have experience in both frontend and backend development with javascript being my language of choice for most projects. For most web3.0 projects i work with reactjs , solidity and nodejs.
+
+Outside work I listen to podcasts, read a lot of books and write Web3.0 and blockchain technical content on hashnode.com and dev.to.
 
 I’m always open to discussing software development work or partnership opportunities
+
+https://www.freeflow.dev/cyprian-tinashe-aarons
 
 ---
 
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"  width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg"  width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"  width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"  width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg"  width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/solidity.svg"  width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"  width="50" height="50"/> 
 
 ---
