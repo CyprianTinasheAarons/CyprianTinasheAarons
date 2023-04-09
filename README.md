@@ -33,6 +33,6 @@ https://www.freeflow.dev/cyprian-tinashe-aarons
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyprianTinasheAarons&hide=java,html,css&theme=radical)](https://github.com/cypriantinasheaarons/github-readme-stats)
 
-[![Cyprian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&theme=radical)](https://github.com/cypriantinasheaarons/github-readme-stats)
+[![Cyprian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&theme=radical&count_private=true)](https://github.com/cypriantinasheaarons/github-readme-stats)
 
 <a href="https://app.daily.dev/CyprianKing2"><img src="https://api.daily.dev/devcards/73fe4af11d544cc598514ad7fcc58dc0.png?r=2mp" width="400" alt="Cyprian Aarons's Dev Card"/></a>
