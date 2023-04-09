@@ -35,4 +35,4 @@ https://www.freeflow.dev/cyprian-tinashe-aarons
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&theme=radical)](https://github.com/cypriantinasheaarons/github-readme-stats)
 
-<a href="https://app.daily.dev/CyprianAarons"><img src="https://api.daily.dev/devcards/aa2e5455472242d7943bc03bdb44ef7b.png?r=hs8" width="400" alt="Cyprian Tinashe Aarons's Dev Card"/></a>
+<a href="https://app.daily.dev/CyprianKing2"><img src="https://api.daily.dev/devcards/73fe4af11d544cc598514ad7fcc58dc0.png?r=2mp" width="400" alt="Cyprian Aarons's Dev Card"/></a>
