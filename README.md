@@ -31,7 +31,7 @@ https://www.freeflow.dev/cyprian-tinashe-aarons
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyprianTinasheAarons&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyprianTinasheAarons&hide=java,html,css&theme=radical)](https://github.com/cypriantinasheaarons/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&theme=radical)](https://github.com/cypriantinasheaarons/github-readme-stats)
 
