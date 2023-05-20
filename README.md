@@ -14,7 +14,7 @@ Outside work I listen to podcasts, read a lot of books and write Web3.0 and bloc
 
 I’m always open to discussing software development work or partnership opportunities
 
-https://www.freeflow.dev/cyprian-tinashe-aarons
+https://cyprian.topiax.xyz
 
 ---
 
