@@ -4,17 +4,11 @@
 
 ## My Bio
 
-Hello! 😊
+👋 Hi, I'm Cyprian Tinashe Aarons, a seasoned Fullstack Software Engineer based in Sandton, South Africa. With over 5 years of experience, I specialize in developing web and mobile applications, particularly in AI and blockchain technologies. I lead projects and teams to create innovative solutions that tackle complex business challenges.
 
-My name is Cyprian Tinashe Aarons, a seasoned Fullstack Software Engineer and the founder of Topiax, a Web 3.0 tech company. I'm also dedicated to mental health advocacy through my non-profit, All We Got Is Mind. Previously, I served as CTO of Freshideas, overseeing development teams at Freshinabox, Joeys, and Surprise for over two years.
+Currently, I'm a Contractor Fullstack Mobile Developer at CST LTD Managed Services and a Contractor Fullstack Blockchain Developer at Coindraw.io, where I design and implement systems that improve operational efficiencies and secure user interactions. As the founder of Topiax, a Web 3.0 tech company, and a non-profit organization, All We Got Is Mind, I am committed to leveraging technology for social good.
 
-I am deeply passionate about software development, especially in creating and scaling innovative projects from scratch. My technical toolkit is centered around JavaScript, with extensive experience in React.js, Node.js, and Solidity for blockchain applications.
-
-Outside of work, I indulge in podcasts, devour books, and write about Web3.0 and blockchain technology on platforms like Hashnode and Dev.to.
-
-I’m always open to discussing software development work or partnership opportunities. Let's connect!
-
-[Topiax Website](https://cyprian.topiax.xyz)
+🔗 Connect with me to explore software development opportunities or partnerships. Check out my work on GitHub or visit my portfolio.
 
 ---
 
