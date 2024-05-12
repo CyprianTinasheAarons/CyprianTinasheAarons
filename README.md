@@ -1,20 +1,20 @@
- #### 👋 Hi, I’m  Cyprian Tinashe Aarons
- 
- ![Twitter Follow](https://img.shields.io/twitter/follow/cyprianaarons?style=social) ![GitHub followers](https://img.shields.io/github/followers/cypriantinasheaarons?style=social)
- 
- ## My Bio
- 
-Hello! 🙂
+#### 👋 Hi, I'm Cyprian Tinashe Aarons
 
-My name is Cyprian Tinashe Aarons. I am a software engineer and the creator of a Web 3.0 tech company called Topiax. And also the founder of a non-profit organization on Mental Health called All We Got Is Mind. Previously worked as the CTO of Freshideas the parent of Freshinabox, Joeys, and Surprise. Where I lead a team of competent developers for more than 2 years.
+![Twitter Follow](https://img.shields.io/twitter/follow/cyprianaarons?style=social) ![GitHub followers](https://img.shields.io/github/followers/cypriantinasheaarons?style=social)
 
-Am very passionate about software development and building projects from the ground up. I have experience in both frontend and backend development with javascript being my language of choice for most projects. For most web3.0 projects i work with reactjs , solidity and nodejs.
+## My Bio
 
-Outside work I listen to podcasts, read a lot of books and write Web3.0 and blockchain technical content on hashnode.com and dev.to.
+Hello! 😊
 
-I’m always open to discussing software development work or partnership opportunities
+My name is Cyprian Tinashe Aarons, a seasoned Fullstack Software Engineer and the founder of Topiax, a Web 3.0 tech company. I'm also dedicated to mental health advocacy through my non-profit, All We Got Is Mind. Previously, I served as CTO of Freshideas, overseeing development teams at Freshinabox, Joeys, and Surprise for over two years.
 
-https://cyprian.topiax.xyz
+I am deeply passionate about software development, especially in creating and scaling innovative projects from scratch. My technical toolkit is centered around JavaScript, with extensive experience in React.js, Node.js, and Solidity for blockchain applications.
+
+Outside of work, I indulge in podcasts, devour books, and write about Web3.0 and blockchain technology on platforms like Hashnode and Dev.to.
+
+I’m always open to discussing software development work or partnership opportunities. Let's connect!
+
+[Topiax Website](https://cyprian.topiax.xyz)
 
 ---
 
@@ -33,8 +33,5 @@ https://cyprian.topiax.xyz
 [![Cyprian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/CyprianTinasheAarons)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Cyprian's github activity graph](https://activity-graph.herokuapp.com/graph?username=CyprianTinasheAarons&theme=redical)
-
 
 <a href="https://app.daily.dev/CyprianKing2"><img src="https://api.daily.dev/devcards/73fe4af11d544cc598514ad7fcc58dc0.png?r=2mp" width="400" alt="Cyprian Aarons's Dev Card"/></a>
