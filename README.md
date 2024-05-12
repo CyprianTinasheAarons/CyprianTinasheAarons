@@ -25,12 +25,11 @@ https://cyprian.topiax.xyz
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg"  width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg"  width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg"  width="50" height="50"/> 
 
 ---
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Cyprian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&theme=radical&count_private=true)](https://github.com/cypriantinasheaarons/github-readme-stats)
+[![Cyprian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/CyprianTinasheAarons)
 
 <a href="https://app.daily.dev/CyprianKing2"><img src="https://api.daily.dev/devcards/73fe4af11d544cc598514ad7fcc58dc0.png?r=2mp" width="400" alt="Cyprian Aarons's Dev Card"/></a>
