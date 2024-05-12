@@ -4,7 +4,7 @@
 
 ## My Bio
 
-👋 Hi, I'm Cyprian Tinashe Aarons, a seasoned Fullstack Software Engineer based in Sandton, South Africa. With over 5 years of experience, I specialize in developing web and mobile applications, particularly in AI and blockchain technologies. I lead projects and teams to create innovative solutions that tackle complex business challenges.
+👋 Hi, I'm Cyprian Tinashe Aarons, a seasoned Fullstack Software Engineer based in South Africa. With over 5 years of experience, I specialize in developing web and mobile applications, particularly in AI and blockchain technologies. I lead projects and teams to create innovative solutions that tackle complex business challenges.
 
 Currently, I'm a Contractor Fullstack Mobile Developer at CST LTD Managed Services and a Contractor Fullstack Blockchain Developer at Coindraw.io, where I design and implement systems that improve operational efficiencies and secure user interactions. As the founder of Topiax, a Web 3.0 tech company, and a non-profit organization, All We Got Is Mind, I am committed to leveraging technology for social good.
 
