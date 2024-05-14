@@ -24,9 +24,9 @@ Currently, I'm a Contractor Fullstack Mobile Developer at CST LTD Managed Servic
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-bfmrgennw.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&bg_color=00000000)
+![GitHub stats](https://github-readme-stats-bfmrgennw.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&bg_color=00000000)
 
 <a href="https://app.daily.dev/CyprianKing2"><img src="https://api.daily.dev/devcards/73fe4af11d544cc598514ad7fcc58dc0.png?r=2mp" width="400" alt="Cyprian Aarons's Dev Card"/></a>
 
