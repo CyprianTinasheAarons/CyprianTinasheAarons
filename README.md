@@ -27,7 +27,7 @@ I'm a seasoned Fullstack Software Engineer based in South Africa, specializing i
 ## 🏆 Achievements
 
 - Founder of Africai.app, an AI-driven platform with 20,000+ users
-- Developed 30+ blockchain-based sites for global clients
+- Developed 20+ blockchain-based sites for global clients
 - Speaker at Google Africa events and various developer meetups
 
 ## 📈 GitHub Stats
