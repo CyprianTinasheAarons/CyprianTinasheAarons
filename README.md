@@ -6,7 +6,7 @@
 
 I'm a seasoned Fullstack Software Engineer, specializing in AI and blockchain technologies. With over 6 years of experience, I'm passionate about developing innovative web and mobile applications that solve complex business challenges.
 
-- 🔭 Currently working on: AI-driven solutions at Africai.app
+- 🔭 Currently working on: AI-driven solutions at Africai.xyz
 - 🌱 Learning: Advanced AI workflows and blockchain scalability
 - 👯 Looking to collaborate on: Open-source AI and blockchain projects
 - 💬 Ask me about: AI engineering, chatbot development, blockchain integration
