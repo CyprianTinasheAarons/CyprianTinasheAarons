@@ -26,7 +26,7 @@ I'm a seasoned Fullstack Software Engineer, specializing in AI and blockchain te
 
 ## 🏆 Achievements
 
-- Founder of Africai.xyz, a ai startup based in Zimbabwe.
+- Founder and CTO of Africai.xyz, a ai startup based in South Africa & UK.
 - Developed 20+ blockchain-based sites for global clients
 - Speaker at Google Africa events and various developer meetups
 
