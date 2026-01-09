@@ -27,26 +27,6 @@ I am a technical leader and engineer architecting **Agentic AI** and **Scalable 
 - **DevOps Excellence:** Achieved a **40% reduction in production incidents** by establishing automated testing and CI/CD workflows.
 - **AI Integration:** Successfully deployed Stability.ai and OpenAI workflows into production environments for personalized user journeys.
 
-
-
-## 📊 Performance & Impact
-
-<p align="center">
-  <a href="https://github.com/CyprianTinasheAarons">
-    <img src="https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&theme=tokyonight&title_color=2bbc8a&icon_color=2bbc8a&hide_border=true&count_private=true" alt="Cyprian's GitHub Stats" height="180px" />
-  </a>
-  <a href="https://github.com/CyprianTinasheAarons">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&theme=tokyonight&title_color=2bbc8a&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
-  </a>
-</p>
-
-## 🌐 Connect & Read My Insights
-<p align="left">
-<a href="https://www.linkedin.com/in/cyprian-aarons-aa3365204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://cyprianaarons.com"><img src="https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://cyprianaarons.com"><img src="https://img.shields.io/badge/Technical_Blog-20k+_Reads-orange?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-
 ---
 
 <p align="center">
