@@ -1,41 +1,51 @@
 # 👋 Hi, I'm Cyprian Tinashe Aarons
 ### **Senior AI & Fullstack Lead | Founder & CTO | Technical Writer**
 
-![Twitter Follow](https://img.shields.io/twitter/follow/cyprianaarons?style=social) ![GitHub followers](https://img.shields.io/github/followers/cypriantinasheaarons?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/cyprianaarons?style=social) ![GitHub followers](https://img.shields.io/github/followers/CyprianTinasheAarons?style=social)
 
-## 🚀 Overview
-Technical leader and engineer architecting **Agentic AI** and **Scalable Fullstack Systems**. With over 6 years of experience, I’ve managed teams of up to **20 developers** and built platforms serving **20,000+ users**. 
+## 🚀 Professional Overview
+I am a technical leader and engineer architecting **Agentic AI** and **Scalable Fullstack Systems**. With over 6+ years of experience, I have scaled engineering departments from small units to teams of **20 developers**, delivering products serving **20,000+ concurrent users**. 
 
-- 🧠 **Currently Building:** Agentic AI Workflows with **LangGraph** & **FastAPI**.
-- ✍️ **Technical Authority:** Reach of **20k+ reads** on deep-dive engineering articles.
-- 🏗️ **Leadership:** Proven track record leading teams of 3, 10, and 20+ engineers.
+- 🧠 **Current Focus:** Engineering production-grade Agentic Workflows using **LangGraph**, **LangChain**, and **FastAPI**.
+- ✍️ **Technical Authority:** Established writer with **2,000+ subscribers** and peak articles reaching **20,000+ reads**.
+- 🏗️ **Strategic Leadership:** Former CTO with a track record of leading **3 devs (Africai)**, **10 devs (Freshideas)**, and **20 devs (Topiax)**.
 
 
 
-## 🛠️ Stack & Expertise
+## 🛠️ Stack & Technical Expertise
 
 | Domain | Technologies |
 | :--- | :--- |
-| **AI & Data** | LangChain, LangGraph, Python (FastAPI), TensorFlow, PyTorch, RAG |
+| **AI & LLM Ops** | LangChain, LangGraph, Python (FastAPI), RAG, TensorFlow, PyTorch |
 | **Fullstack** | TypeScript, Next.js, Node.js, React, PostgreSQL, Tailwind CSS |
-| **Cloud/DevOps** | AWS (Lambda, RDS, S3), Docker, CI/CD, Terraform, Kubernetes |
-| **Web3** | Solidity, Smart Contracts, Web3.js, Ethers.js, DeFi Protocols |
+| **Infrastructure** | AWS (Lambda, RDS, S3), Docker, CI/CD Pipelines, Kubernetes |
+| **Web3/Blockchain** | Solidity, Smart Contracts, Web3.js, Ethers.js, DeFi Protocols |
+
+## 🏆 Key Impact & Achievements
+- **Engineering Leadership:** Directed a 20-developer department at **Topiax** (scaling Web3 infra) and a 10-person team at **Freshideas** (100% on-time SaaS delivery).
+- **Scale & Performance:** Engineered the **Africai** platform to handle **20k active users** with a **75% reduction in API response times**.
+- **DevOps Excellence:** Achieved a **40% reduction in production incidents** by establishing automated testing and CI/CD workflows.
+- **AI Integration:** Successfully deployed Stability.ai and OpenAI workflows into production environments for personalized user journeys.
+
+
 
 ## 📊 Performance & Impact
 
 <p align="center">
-  <a href="https://github.com/cypriantinasheaarons">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cypriantinasheaarons&hide=java,html&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4&layout=compact" />
+  <a href="https://github.com/CyprianTinasheAarons">
+    <img src="https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&theme=tokyonight&title_color=2bbc8a&icon_color=2bbc8a&hide_border=true&count_private=true" alt="Cyprian's GitHub Stats" height="180px" />
   </a>
-  <a href="https://github.com/cypriantinasheaarons">
-    <img src="https://github-readme-stats.vercel.app/api?username=cypriantinasheaarons&show_icons=true&line_height=27&count_private=true&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <a href="https://github.com/CyprianTinasheAarons">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&theme=tokyonight&title_color=2bbc8a&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
   </a>
 </p>
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cyprian-aarons-aa3365204/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cyprianaarons.com)
-[![Blog](https://img.shields.io/badge/Blog-20k+_Reads-orange?style=for-the-badge&logo=medium&logoColor=white)](https://cyprianaarons.com)
+## 🌐 Connect & Read My Insights
+<p align="left">
+<a href="https://www.linkedin.com/in/cyprian-aarons-aa3365204/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://cyprianaarons.com"><img src="https://img.shields.io/badge/Portfolio-2bbc8a?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://cyprianaarons.com"><img src="https://img.shields.io/badge/Technical_Blog-20k+_Reads-orange?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
 ---
 
