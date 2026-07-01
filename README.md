@@ -16,9 +16,6 @@ I'm an independent consultant and software engineer with over 6 years of experie
 * **Frontend:** React, Next.js, TypeScript, Tailwind CSS
 * **Cloud & DevOps:** AWS (Lambda, RDS, S3), Docker, Vercel, Cloudflare, CI/CD Pipelines
 
-### 📈 GitHub Stats
-![Cyprian's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-
 ### 📫 Let's Connect
 * **Portfolio:** [cyprianaarons.xyz](https://cyprianaarons.xyz)
 * **LinkedIn:** [in/cyprian-aarons](https://linkedin.com/in/cyprian-aarons)
