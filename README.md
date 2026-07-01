@@ -21,4 +21,4 @@ Production-hardening AI-built apps · Founder-led GTM systems · Revenue workflo
 
 ---
 
-→ **[cyprianaarons.xyz](https://cyprianaarons.xyz)** · Send your app, page, or workflow for a free teardown.
+→ **[topiax.xyz](https://topiax.xyz)** · Send your app, page, or workflow for a free teardown.
