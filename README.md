@@ -9,3 +9,5 @@ evaluation harnesses deployed as FastAPI microservices on AWS.
 - 🧠 Focus: Agentic orchestration, RAG evaluation, LLM/RLHF scoring
 - 📫 cyprianaarons263@gmail.com
 - 🌐 cyprian.topiax.xyz | ✍️ dev.to/cypriantinasheaarons
+
+![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=CyprianTinasheAarons&theme=default)
