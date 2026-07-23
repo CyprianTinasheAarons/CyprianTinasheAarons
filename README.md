@@ -132,8 +132,6 @@ A real-time mobile operations platform that cut logistics workflow processing ti
 
 </div>
 
-*Live stats served on request by a self-hosted [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) instance on Vercel — no scheduled Action or repo secret required.*
-
 ---
 
 <div align="center">
