@@ -7,6 +7,7 @@
 Senior AI Engineer & Forward Deployed Engineer · 8 years shipping production RAG and multi-agent AI systems · Harare, Zimbabwe · Open to remote / relocation / travel
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cyprian.topiax.xyz-1F3864?style=for-the-badge)](https://cyprian.topiax.xyz)
+[![Topiax](https://img.shields.io/badge/Company-Topiax-0D0D0D?style=for-the-badge)](https://www.topiax.xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyprian-aarons)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyprianaarons263@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Writing-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cypriantinasheaarons)
@@ -81,6 +82,20 @@ Solidity smart contracts, DeFi, and NFT platforms for clients across Australia, 
 
 **Lead Engineer & CTO, Freshideas** · *Jan 2020 to Dec 2021*
 Directed a 10-person cross-functional team, cutting incidents and release cycles 40 to 50% at 100% on-time delivery.
+
+---
+
+### 🏢 Topiax, my consulting practice
+
+**[topiax.xyz](https://www.topiax.xyz)** · High-ticket AI consulting and engineering for businesses relying on AI in production
+
+Topiax moves clients past ChatGPT wrappers and vibe-coded prototypes: fixed-scope engagements, senior technical delivery, clear handover, no open-ended "AI transformation" theatre.
+
+- **[Custom AI Integration](https://www.topiax.xyz/ai-integration)** (from $10,000) · Wiring secure multi-agent systems and RAG directly into a client's CRM, ERP, and internal workflows
+- **[AI Reliability Guardrails](https://www.topiax.xyz/ai-reliability-sprint)** ($4,500 audit + retainer) · Rescuing AI features stuck in beta with evaluations, guardrails, observability, and recovery
+- **[Ship with Confidence Review](https://www.topiax.xyz/ai-security-audit)** (from $750) · A 48-hour pre-launch readiness check for apps built with Cursor, Bolt, or Claude Code
+
+[Book a 30-minute fit call →](https://cal.com/cyprian-aarons-topiax/30min)
 
 ---
 
