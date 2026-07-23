@@ -128,9 +128,11 @@ A real-time mobile operations platform that cut logistics workflow processing ti
 <div align="center">
 
 [![Cyprian's GitHub Stats](https://github-readme-stats-lac-zeta-25.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&theme=transparent&hide_border=true)](https://github.com/CyprianTinasheAarons)
-[![Top Languages](https://github-readme-stats-lac-zeta-25.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/CyprianTinasheAarons)
+[![Top Languages](https://github-readme-stats-lac-zeta-25.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&theme=transparent&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5)](https://github.com/CyprianTinasheAarons)
 
 </div>
+
+*Live stats served on request by a self-hosted [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) instance on Vercel — no scheduled Action or repo secret required.*
 
 ---
 
