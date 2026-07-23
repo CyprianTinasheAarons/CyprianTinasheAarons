@@ -1,13 +1,120 @@
-### Hi, I'm Cyprian 👋
+<div align="center">
 
-Senior AI Engineer with 8 years of experience shipping production agentic 
-AI systems — LangGraph multi-agent workflows, RAG pipelines, and LLM 
-evaluation harnesses deployed as FastAPI microservices on AWS.
+# Cyprian Tinashe Aarons
 
-- 🔭 Currently: Independent AI consulting (insurance, healthcare, defence, govtech)
-- 🏢 Previously: CTO @ AfricAI — scaled to 20,000+ users at 99.9% uptime
-- 🧠 Focus: Agentic orchestration, RAG evaluation, LLM/RLHF scoring
-- 📫 cyprianaarons263@gmail.com
-- 🌐 cyprian.topiax.xyz | ✍️ dev.to/cypriantinasheaarons
+### I ship AI systems that hold under real load.
 
-![GitHub Streak](https://github-streak-bijay-shre-stha.vercel.app/api/streak-image?username=CyprianTinasheAarons&theme=default)
+Senior AI Engineer & Forward Deployed Engineer · 8 years shipping production RAG and multi-agent AI systems · Harare, Zimbabwe · Open to remote / relocation / travel
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-cyprian.topiax.xyz-1F3864?style=for-the-badge)](https://cyprian.topiax.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyprian-aarons)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyprianaarons263@gmail.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Writing-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cypriantinasheaarons)
+
+</div>
+
+---
+
+### ⚡ Proof, not a pitch
+
+<div align="center">
+
+| 20,000+ | 35–75% | 99.9% | 20 |
+|:---:|:---:|:---:|:---:|
+| Users on platforms shipped | API latency reduction | Uptime at scale | Engineers led at peak |
+
+</div>
+
+I architect LangGraph/LangChain agentic pipelines as FastAPI microservices on AWS for insurance, government, defence, healthcare, and fintech operators across the US, Gulf, and Africa — owning the full arc from ambiguous discovery through production hardening. Comfortable being the last line of defense when a system breaks in front of the customer.
+
+---
+
+### 🧠 Stack
+
+**AI & Machine Learning**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A574?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square)
+
+**Backend & Cloud**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+
+**Blockchain & Web3**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square)
+
+---
+
+### 🛠️ Track record
+
+**Independent AI Consultant** — Senior AI Engineer, Remote · *Feb 2025 – Present*
+Zimnat Insurance: cut response latency to <3s and lifted automated engagement 25% with a LangGraph multi-agent RAG pipeline. Defence & Security AI (classified): applied AI for national-security drone detection and procurement. Baines Avenue Clinic & PSC: multimodal debt-recovery and psychometric-profiling products on AWS.
+
+**Chief Technology Officer, Africai** · *Jan 2023 – Feb 2025*
+Scaled a 3-developer team to support a 20,000+ user AI platform at 99.9% uptime. Cut API response times 35–75% via Redis caching and async Python; led OpenAI/Stability.ai integration.
+
+**Senior Engineer, Independent Contractor — Coindraw, CST Ltd, Vanti** · *Jun 2022 – Dec 2024*
+Scaled a fintech backend to 10,000+ concurrent users at sub-200ms latency; cut logistics workflow processing time 80%; built real-time Vue.js IoT dashboards at sub-100ms latency.
+
+**Founder & CTO, Topiax.xyz** · *Oct 2018 – Dec 2023*
+Founded and scaled a 20+ engineer studio delivering AI, backend, and data products across government, healthcare, fintech, and logistics accounts in three countries. Cut production incidents 40% via standardised CI/CD.
+
+**Senior Software Engineer, Web3 & AI — FreeFlow** · *2021 – 2022*
+Solidity smart contracts, DeFi, and NFT platforms for clients across Australia, Singapore, the US, and the UAE.
+
+**Lead Engineer & CTO, Freshideas** · *Jan 2020 – Dec 2021*
+Directed a 10-person cross-functional team, cutting incidents and release cycles 40–50% at 100% on-time delivery.
+
+---
+
+### 🔍 Field evidence
+
+**[Semai AI Support](https://cyprian.topiax.xyz/work/semai)** — Agentic AI / RAG
+A governed, retrieval-backed support system with human escalation — not a black-box chatbot. *Role: AI Product Architect & Lead Engineer · Status: Built*
+
+**[CST Goods-In](https://cyprian.topiax.xyz/work/cst)** — Real-Time Operations
+A real-time mobile operations platform that cut logistics workflow processing time by 80%. *Role: Senior Full-Stack Developer (Contract) · Status: Shipped*
+
+[→ Full case study library](https://cyprian.topiax.xyz/case-studies)
+
+---
+
+### 📊 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyprianTinasheAarons&hide_border=true" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&hide_border=true" alt="Top Languages" width="49%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Building AI systems that need to hold under real load?**
+I'm available for senior engineering roles, contract engagements, and technical consulting.
+
+[![Email](https://img.shields.io/badge/Email%20me-cyprianaarons263%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyprianaarons263@gmail.com)
+[![Resume](https://img.shields.io/badge/Download-Resume-1F3864?style=for-the-badge)](https://cyprian.topiax.xyz/Cyprian-Tinashe-Aarons-Resume.pdf)
+
+</div>
