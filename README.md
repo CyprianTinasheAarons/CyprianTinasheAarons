@@ -65,23 +65,35 @@ I architect LangGraph/LangChain agentic pipelines as FastAPI microservices on AW
 
 ### 🛠️ Track record
 
-**Independent AI Consultant, Senior AI Engineer, Remote** · *Feb 2025 to Present*
-Zimnat Insurance: cut response latency to under 3s and lifted automated engagement 25% with a LangGraph multi-agent RAG pipeline. Defence & Security AI (classified): applied AI for national-security drone detection and procurement. Baines Avenue Clinic & PSC: multimodal debt-recovery and psychometric-profiling products on AWS.
+**Independent AI Consultant, Senior AI Engineer, Remote**
+*Feb 2025 to Present*
+- Zimnat Insurance: cut response latency to under 3s and lifted automated engagement 25% with a LangGraph multi-agent RAG pipeline
+- Defence & Security AI (classified): applied AI for national-security drone detection and procurement
+- Baines Avenue Clinic & PSC: multimodal debt-recovery and psychometric-profiling products on AWS
 
-**Chief Technology Officer, Africai** · *Jan 2023 to Feb 2025*
-Scaled a 3-developer team to support a 20,000+ user AI platform at 99.9% uptime. Cut API response times 35 to 75% via Redis caching and async Python; led OpenAI/Stability.ai integration.
+**Chief Technology Officer, Africai**
+*Jan 2023 to Feb 2025*
+- Scaled a 3-developer team to support a 20,000+ user AI platform at 99.9% uptime
+- Cut API response times 35 to 75% via Redis caching and async Python; led OpenAI/Stability.ai integration
 
-**Senior Engineer, Independent Contractor, Coindraw / CST Ltd / Vanti** · *Jun 2022 to Dec 2024*
-Scaled a fintech backend to 10,000+ concurrent users at sub-200ms latency; cut logistics workflow processing time 80%; built real-time Vue.js IoT dashboards at sub-100ms latency.
+**Senior Engineer, Independent Contractor, Coindraw / CST Ltd / Vanti**
+*Jun 2022 to Dec 2024*
+- Scaled a fintech backend to 10,000+ concurrent users at sub-200ms latency
+- Cut logistics workflow processing time 80%
+- Built real-time Vue.js IoT dashboards at sub-100ms latency
 
-**Founder & CTO, Topiax.xyz** · *Oct 2018 to Dec 2023*
-Founded and scaled a 20+ engineer studio delivering AI, backend, and data products across government, healthcare, fintech, and logistics accounts in three countries. Cut production incidents 40% via standardised CI/CD.
+**Founder & CTO, Topiax.xyz**
+*Oct 2018 to Dec 2023*
+- Founded and scaled a 20+ engineer studio delivering AI, backend, and data products across government, healthcare, fintech, and logistics accounts in three countries
+- Cut production incidents 40% via standardised CI/CD
 
-**Senior Software Engineer, Web3 & AI, FreeFlow** · *2021 to 2022*
-Solidity smart contracts, DeFi, and NFT platforms for clients across Australia, Singapore, the US, and the UAE.
+**Senior Software Engineer, Web3 & AI, FreeFlow**
+*2021 to 2022*
+- Solidity smart contracts, DeFi, and NFT platforms for clients across Australia, Singapore, the US, and the UAE
 
-**Lead Engineer & CTO, Freshideas** · *Jan 2020 to Dec 2021*
-Directed a 10-person cross-functional team, cutting incidents and release cycles 40 to 50% at 100% on-time delivery.
+**Lead Engineer & CTO, Freshideas**
+*Jan 2020 to Dec 2021*
+- Directed a 10-person cross-functional team, cutting incidents and release cycles 40 to 50% at 100% on-time delivery
 
 ---
 
