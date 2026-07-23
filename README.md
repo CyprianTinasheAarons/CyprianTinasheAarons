@@ -19,13 +19,13 @@ Senior AI Engineer & Forward Deployed Engineer · 8 years shipping production RA
 
 <div align="center">
 
-| 20,000+ | 35–75% | 99.9% | 20 |
+| 20,000+ | 35 to 75% | 99.9% | 20 |
 |:---:|:---:|:---:|:---:|
 | Users on platforms shipped | API latency reduction | Uptime at scale | Engineers led at peak |
 
 </div>
 
-I architect LangGraph/LangChain agentic pipelines as FastAPI microservices on AWS for insurance, government, defence, healthcare, and fintech operators across the US, Gulf, and Africa — owning the full arc from ambiguous discovery through production hardening. Comfortable being the last line of defense when a system breaks in front of the customer.
+I architect LangGraph/LangChain agentic pipelines as FastAPI microservices on AWS for insurance, government, defence, healthcare, and fintech operators across the US, Gulf, and Africa, owning the full arc from ambiguous discovery through production hardening. Comfortable being the last line of defense when a system breaks in front of the customer.
 
 ---
 
@@ -64,48 +64,47 @@ I architect LangGraph/LangChain agentic pipelines as FastAPI microservices on AW
 
 ### 🛠️ Track record
 
-**Independent AI Consultant** — Senior AI Engineer, Remote · *Feb 2025 – Present*
-Zimnat Insurance: cut response latency to <3s and lifted automated engagement 25% with a LangGraph multi-agent RAG pipeline. Defence & Security AI (classified): applied AI for national-security drone detection and procurement. Baines Avenue Clinic & PSC: multimodal debt-recovery and psychometric-profiling products on AWS.
+**Independent AI Consultant, Senior AI Engineer, Remote** · *Feb 2025 to Present*
+Zimnat Insurance: cut response latency to under 3s and lifted automated engagement 25% with a LangGraph multi-agent RAG pipeline. Defence & Security AI (classified): applied AI for national-security drone detection and procurement. Baines Avenue Clinic & PSC: multimodal debt-recovery and psychometric-profiling products on AWS.
 
-**Chief Technology Officer, Africai** · *Jan 2023 – Feb 2025*
-Scaled a 3-developer team to support a 20,000+ user AI platform at 99.9% uptime. Cut API response times 35–75% via Redis caching and async Python; led OpenAI/Stability.ai integration.
+**Chief Technology Officer, Africai** · *Jan 2023 to Feb 2025*
+Scaled a 3-developer team to support a 20,000+ user AI platform at 99.9% uptime. Cut API response times 35 to 75% via Redis caching and async Python; led OpenAI/Stability.ai integration.
 
-**Senior Engineer, Independent Contractor — Coindraw, CST Ltd, Vanti** · *Jun 2022 – Dec 2024*
+**Senior Engineer, Independent Contractor, Coindraw / CST Ltd / Vanti** · *Jun 2022 to Dec 2024*
 Scaled a fintech backend to 10,000+ concurrent users at sub-200ms latency; cut logistics workflow processing time 80%; built real-time Vue.js IoT dashboards at sub-100ms latency.
 
-**Founder & CTO, Topiax.xyz** · *Oct 2018 – Dec 2023*
+**Founder & CTO, Topiax.xyz** · *Oct 2018 to Dec 2023*
 Founded and scaled a 20+ engineer studio delivering AI, backend, and data products across government, healthcare, fintech, and logistics accounts in three countries. Cut production incidents 40% via standardised CI/CD.
 
-**Senior Software Engineer, Web3 & AI — FreeFlow** · *2021 – 2022*
+**Senior Software Engineer, Web3 & AI, FreeFlow** · *2021 to 2022*
 Solidity smart contracts, DeFi, and NFT platforms for clients across Australia, Singapore, the US, and the UAE.
 
-**Lead Engineer & CTO, Freshideas** · *Jan 2020 – Dec 2021*
-Directed a 10-person cross-functional team, cutting incidents and release cycles 40–50% at 100% on-time delivery.
+**Lead Engineer & CTO, Freshideas** · *Jan 2020 to Dec 2021*
+Directed a 10-person cross-functional team, cutting incidents and release cycles 40 to 50% at 100% on-time delivery.
 
 ---
 
 ### 🔍 Field evidence
 
-**[Semai AI Support](https://cyprian.topiax.xyz/work/semai)** — Agentic AI / RAG
-A governed, retrieval-backed support system with human escalation — not a black-box chatbot. *Role: AI Product Architect & Lead Engineer · Status: Built*
+**[Semai AI Support](https://cyprian.topiax.xyz/work/semai)** · Agentic AI / RAG
+A governed, retrieval-backed support system with human escalation, not a black-box chatbot. *Role: AI Product Architect & Lead Engineer · Status: Built*
 
-**[CST Goods-In](https://cyprian.topiax.xyz/work/cst)** — Real-Time Operations
+**[CST Goods-In](https://cyprian.topiax.xyz/work/cst)** · Real-Time Operations
 A real-time mobile operations platform that cut logistics workflow processing time by 80%. *Role: Senior Full-Stack Developer (Contract) · Status: Shipped*
 
-[→ Full case study library](https://cyprian.topiax.xyz/case-studies)
+[See the full case study library →](https://cyprian.topiax.xyz/case-studies)
 
 ---
 
 ### 📊 GitHub activity
 
+<!--START_SECTION:metrics-->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CyprianTinasheAarons&hide_border=true" alt="GitHub Streak" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&hide_border=true" alt="Top Languages" width="49%" />
-
+<img src="./github-metrics.svg" alt="Live GitHub analytics for CyprianTinasheAarons" width="100%" />
 </div>
+<!--END_SECTION:metrics-->
+
+*This panel is generated directly from my GitHub account by a scheduled Action in this repo (`.github/workflows/metrics.yml`) and refreshes automatically, so it always reflects live data rather than a cached badge.*
 
 ---
 
