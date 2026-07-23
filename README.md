@@ -125,13 +125,14 @@ A real-time mobile operations platform that cut logistics workflow processing ti
 
 ### 📊 GitHub activity
 
-<!--START_SECTION:metrics-->
 <div align="center">
-<img src="./github-metrics.svg" alt="Live GitHub analytics for CyprianTinasheAarons" width="100%" />
-</div>
-<!--END_SECTION:metrics-->
 
-*This panel is generated directly from my GitHub account by a scheduled Action in this repo (`.github/workflows/metrics.yml`) and refreshes automatically, so it always reflects live data rather than a cached badge.*
+[![Cyprian's GitHub Stats](https://github-readme-stats-lac-zeta-25.vercel.app/api?username=CyprianTinasheAarons&show_icons=true&theme=transparent&hide_border=true&count_private=true)](https://github.com/CyprianTinasheAarons)
+[![Top Languages](https://github-readme-stats-lac-zeta-25.vercel.app/api/top-langs/?username=CyprianTinasheAarons&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/CyprianTinasheAarons)
+
+</div>
+
+*Live stats served on request by a self-hosted [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) instance on Vercel — no scheduled Action or repo secret required.*
 
 ---
 
