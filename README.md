@@ -4,7 +4,7 @@
 
 ### I ship AI systems that hold under real load.
 
-Senior AI Engineer & Forward Deployed Engineer · 8 years shipping production RAG and multi-agent AI systems · Harare, Zimbabwe · Open to remote / relocation / travel
+Senior Applied AI Engineer & Forward Deployed Engineer · 8 years shipping production RAG and multi-agent AI systems · Harare, Zimbabwe · Open to remote / relocation / travel
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cyprian.topiax.xyz-1F3864?style=for-the-badge)](https://cyprian.topiax.xyz)
 [![Topiax](https://img.shields.io/badge/Company-Topiax-0D0D0D?style=for-the-badge)](https://www.topiax.xyz)
